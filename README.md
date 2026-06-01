@@ -1,0 +1,2 @@
+# Trend-Analysis-of-Infant-Abandonment-in-Malaysia-2008-2017-Through-Quadratic-Curve-Fitting
+This project applies Linear Algebra II concepts to analyze infant abandonment trends in Malaysia from 2008 to 2017 using the Least Squares Method. A quadratic regression model was developed to determine the best-fit curve for the dataset and examine the relationship between year and the number of infant abandonment cases
